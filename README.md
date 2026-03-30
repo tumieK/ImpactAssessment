@@ -2,6 +2,7 @@
 
 ## Overview
 This project implements a number range summarizer that groups sequential numbers into ranges.
+Link for the project: https://github.com/tumieK/ImpactAssessment.git
 
 ## Example
 Input:
